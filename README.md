@@ -33,24 +33,4 @@ Verifit stands out as a fitness workout tracker app that prioritizes user freedo
 * [Sardine](https://github.com/lookfirst/sardine) for webdav requests
 * [Gson](https://github.com/google/gson) for Json parsing and serialization
 
-## Setting up a webdav server
-```bash
-sudo apt install docker
-docker run -d -p 80:80 -v /data/webdav:/var/lib/dav -e USERNAME=user -e PASSWORD=password bytemark/webdav
-```
-
-
-
-## Donations
-### Donate with Monero
-
-42uCPZuxsSS3FNNx6RMDAMVmHVwYBfg3JVMuPKMwadeEfwyykFLkwAH8j4B12ziU7PBCMjLwpPbbDgBw45N4wMpsM3Dy7is
-
- <img width="200" src="/verifit/src/main/res/drawable/xmr.png">
-
-
-### Donate with Paypal
-[<img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png"
-alt="Donate with paypal"
-height="80">](https://www.paypal.com/donate/?hosted_button_id=YFZX88G8XDSN4)
 
