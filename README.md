@@ -5,14 +5,6 @@ Verifit is a simple minimalist fitness tracker that I made mainly for myself. It
 ## Why another fitness tracker?
 Verifit stands out as a fitness workout tracker app that prioritizes user freedom and simplicity above all. Unlike its competitors, Verifit is open-source, allowing for community-driven improvements and adaptability. This ad-free app also provides the convenience of both offline usage and the option to host on your own server, ensuring data privacy and control. Moreover, Verifit's online account and seamless export/import of workout data enable smooth transitions between different usage modes. At its core, Verifit is committed to simplicity, with a clean design that focuses on performing a single task exceptionally well, rather than juggling multiple features.
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Download from Google Play"
-      height="80">](https://play.google.com/store/apps/details?id=com.whatever.verifit)
-
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-alt="Download from Izzy Droid"
-height="80">](https://apt.izzysoft.de/fdroid/index/apk/com.whatever.verifit)
-
 ## Features
 * Exercise tracking
 * Create custom exercises
